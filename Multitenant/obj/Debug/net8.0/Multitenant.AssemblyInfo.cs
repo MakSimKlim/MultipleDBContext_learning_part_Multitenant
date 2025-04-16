@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multitenant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e31f4dd04073df25f932307e1e0ab710e14dedaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c257c13c5c4c4943c987a842e28daabf41d5cfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multitenant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multitenant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
