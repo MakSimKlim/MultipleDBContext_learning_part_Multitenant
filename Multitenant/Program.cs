@@ -14,8 +14,15 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Multitenant", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "Multitenant API",
+        Version = "v1",
+        Description = "API for multitenant application"
+    });
+
 });
+
 
 builder.Services.AddTransient<ITenantService, TenantService>();
 builder.Services.AddTransient<IProductService, ProductService>();
