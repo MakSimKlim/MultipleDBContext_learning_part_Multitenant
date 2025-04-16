@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multitenant", "Multitenant.csproj", "{24322001-4D55-406E-BEB6-E886181EC7F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multitenant", "Multitenant.csproj", "{24322001-4D55-406E-BEB6-E886181EC7F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "..\Core\Core.csproj", "{FD38A96F-E720-4488-A400-9290A3365205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "..\Core\Core.csproj", "{FD38A96F-E720-4488-A400-9290A3365205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{3AA6EF83-279C-4A50-B5FD-02E72E789EF9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{3AA6EF83-279C-4A50-B5FD-02E72E789EF9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

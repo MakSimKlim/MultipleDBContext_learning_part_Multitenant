@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ic5ki2x9QeHFcbewkHoCSgWzyJrfiYIYlgsHa4COxlvzxfpTzOIiHJtq0Zn6aKehxHSAc6BUZ7HAMz6yb158hw==",
+  "dgSpecHash": "goIgXWEJNO+7D8hBQnKPxSynQgzytH6s3oITGDwMLgPw6SAftYy8bsrWXQlypxdg0V96jPmHN1PsU4s8WW+uTw==",
   "success": true,
   "projectFilePath": "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Multitenant\\Multitenant.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.4\\microsoft.entityframeworkcore.design.9.0.4.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.4\\microsoft.entityframeworkcore.relational.9.0.4.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\9.0.4\\microsoft.entityframeworkcore.sqlserver.9.0.4.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\9.0.4\\microsoft.entityframeworkcore.tools.9.0.4.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.4\\microsoft.extensions.caching.abstractions.9.0.4.nupkg.sha512",
     "C:\\Users\\Home\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.4\\microsoft.extensions.caching.memory.9.0.4.nupkg.sha512",
