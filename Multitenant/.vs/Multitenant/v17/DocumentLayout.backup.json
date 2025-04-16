@@ -3,13 +3,17 @@
   "WorkspaceRootPath": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Multitenant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AA6EF83-279C-4A50-B5FD-02E72E789EF9}|..\\Infrastructure\\Infrastructure.csproj|e:\\work\\\u043B\u0438\u0447\u043D\u043E\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\multitenancy\u0026authorization\\multipledbcontext_learning_part_multitenant\\infrastructure\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FD38A96F-E720-4488-A400-9290A3365205}|..\\Core\\Core.csproj|e:\\work\\\u043B\u0438\u0447\u043D\u043E\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\multitenancy\u0026authorization\\multipledbcontext_learning_part_multitenant\\core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD38A96F-E720-4488-A400-9290A3365205}|..\\Core\\Core.csproj|e:\\work\\\u043B\u0438\u0447\u043D\u043E\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\multitenancy\u0026authorization\\multipledbcontext_learning_part_multitenant\\core\\interfaces\\itenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA6EF83-279C-4A50-B5FD-02E72E789EF9}|..\\Infrastructure\\Infrastructure.csproj|e:\\work\\\u043B\u0438\u0447\u043D\u043E\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\multitenancy\u0026authorization\\multipledbcontext_learning_part_multitenant\\infrastructure\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24322001-4D55-406E-BEB6-E886181EC7F2}|Multitenant.csproj|e:\\work\\\u043B\u0438\u0447\u043D\u043E\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\multitenancy\u0026authorization\\multipledbcontext_learning_part_multitenant\\multitenant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24322001-4D55-406E-BEB6-E886181EC7F2}|Multitenant.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD38A96F-E720-4488-A400-9290A3365205}|..\\Core\\Core.csproj|e:\\work\\\u043B\u0438\u0447\u043D\u043E\u0435\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\multitenancy\u0026authorization\\multipledbcontext_learning_part_multitenant\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -31,7 +35,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 228,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,46 +55,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Multitenant\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Multitenant\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T12:16:25.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TenantService.cs",
               "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Infrastructure\\Services\\TenantService.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Services\\TenantService.cs",
-              "ToolTip": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Infrastructure\\Services\\TenantService.cs",
-              "RelativeToolTip": "..\\Infrastructure\\Services\\TenantService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "ToolTip": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Infrastructure\\Services\\TenantService.cs*",
+              "RelativeToolTip": "..\\Infrastructure\\Services\\TenantService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T12:05:26.518Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ITenantService.cs",
               "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Interfaces\\ITenantService.cs",
               "RelativeDocumentMoniker": "..\\Core\\Interfaces\\ITenantService.cs",
               "ToolTip": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Interfaces\\ITenantService.cs",
               "RelativeToolTip": "..\\Core\\Interfaces\\ITenantService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T11:50:47.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "..\\Core\\Entities\\Product.cs",
               "ToolTip": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Entities\\Product.cs",
               "RelativeToolTip": "..\\Core\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-16T09:49:57.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TenantSettings.cs",
               "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Settings\\TenantSettings.cs",
               "RelativeDocumentMoniker": "..\\Core\\Settings\\TenantSettings.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IMustHaveTenant.cs",
               "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Contracts\\IMustHaveTenant.cs",
               "RelativeDocumentMoniker": "..\\Core\\Contracts\\IMustHaveTenant.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Entities\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\Core\\Entities\\BaseEntity.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Core.csproj",
               "DocumentMoniker": "E:\\Work\\\u041B\u0438\u0447\u043D\u043E\u0435\\\u041F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Multitenancy\u0026Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "..\\Core\\Core.csproj",
