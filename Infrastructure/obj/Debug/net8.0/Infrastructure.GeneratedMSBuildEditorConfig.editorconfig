@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = E:\Work\Личное\Программирование\Multitenancy&Authorization\MultipleDBContext_learning_part_Multitenant\Infrastructure\
+build_property.ProjectDir = E:\Parents\Dad\AmbassadorV2.0\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\Multitenant\Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

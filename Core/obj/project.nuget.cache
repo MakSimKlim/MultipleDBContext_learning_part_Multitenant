@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3jWtLURnZcA=",
+  "dgSpecHash": "jl3vvc/uZFs5alqdn3grqwYgeHnOJX/1z0A3WjPpUje4sAyrpH6/r3tEjVAkEY50F5qsOktUX/p8NRrod7O6Cw==",
   "success": true,
-  "projectFilePath": "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.3.0\\microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.3.0\\microsoft.aspnetcore.http.features.2.3.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Home\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

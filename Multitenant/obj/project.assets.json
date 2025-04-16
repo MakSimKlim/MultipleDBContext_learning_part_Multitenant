@@ -1761,6 +1761,9 @@
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.3.0"
+        },
         "compile": {
           "bin/placeholder/Core.dll": {}
         },
@@ -5307,28 +5310,29 @@
     "net8.0": [
       "Core >= 1.0.0",
       "Infrastructure >= 1.0.0",
+      "Microsoft.AspNetCore.Http.Abstractions >= 2.3.0",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.4",
       "Swashbuckle.AspNetCore >= 8.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\EVEREST\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Home\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Multitenant\\Multitenant.csproj",
+      "projectUniqueName": "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Multitenant\\Multitenant.csproj",
       "projectName": "Multitenant",
-      "projectPath": "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Multitenant\\Multitenant.csproj",
-      "packagesPath": "C:\\Users\\EVEREST\\.nuget\\packages\\",
-      "outputPath": "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Multitenant\\obj\\",
+      "projectPath": "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Multitenant\\Multitenant.csproj",
+      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+      "outputPath": "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Multitenant\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\EVEREST\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5337,18 +5341,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Core.csproj": {
-              "projectPath": "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Core.csproj"
+            "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Core\\Core.csproj": {
+              "projectPath": "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Core\\Core.csproj"
             },
-            "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Infrastructure\\Infrastructure.csproj"
+            "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\Parents\\Dad\\AmbassadorV2.0\\MultipleDBContext(Authorization2&PD_212_MVC_Classwork)\\Multitenant\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -5368,6 +5371,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
@@ -5398,7 +5405,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
