@@ -1673,6 +1673,16 @@
             "rid": "win"
           }
         }
+      },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
       }
     }
   },
@@ -4877,10 +4887,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Core >= 1.0.0",
       "Microsoft.AspNetCore.Http.Abstractions >= 2.3.0",
       "Microsoft.EntityFrameworkCore >= 9.0.4",
       "Microsoft.EntityFrameworkCore.Relational >= 9.0.4",
@@ -4925,7 +4941,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Core.csproj": {
+              "projectPath": "E:\\Work\\Личное\\Программирование\\Multitenancy&Authorization\\MultipleDBContext_learning_part_Multitenant\\Core\\Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

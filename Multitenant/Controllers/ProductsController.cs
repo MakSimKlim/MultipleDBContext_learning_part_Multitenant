@@ -1,7 +1,9 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Core.Interfaces;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 
-namespace Multitenant.Api.Controllers
+namespace Multitenant.Controllers
 {
     //контроллер, который использует DI IProductService на уровне контейнера
     //и выставляет 3 конечные точки

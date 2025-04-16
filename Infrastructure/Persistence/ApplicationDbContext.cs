@@ -1,4 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore.ChangeTracking;
+﻿using Core.Contracts;
+using Core.Entities;
+using Core.Interfaces;
+using Infrastructure.Extensions;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
