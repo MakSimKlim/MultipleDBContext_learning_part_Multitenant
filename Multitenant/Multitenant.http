@@ -1,0 +1,6 @@
+@Multitenant_HostAddress = http://localhost:5048
+
+GET {{Multitenant_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
